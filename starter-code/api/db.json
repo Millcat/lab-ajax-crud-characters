@@ -1,0 +1,228 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Blaster Pistol",
+      "cartoon": true
+    },
+    {
+      "id": 2,
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false
+    },
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "toto",
+      "occupation": "TA",
+      "weapon": "computer",
+      "cartoon": false,
+      "id": 4
+    },
+    {
+      "name": "toto",
+      "occupation": "TA",
+      "weapon": "computer",
+      "cartoon": false,
+      "id": 5
+    },
+    {
+      "name": "tata",
+      "occupation": "cfe",
+      "weapon": "vfe",
+      "cartoon": false,
+      "id": 6
+    },
+    {
+      "name": "tata",
+      "occupation": "cfe",
+      "weapon": "vfe",
+      "cartoon": false,
+      "id": 7
+    },
+    {
+      "name": "loo",
+      "occupation": "rrt",
+      "weapon": "rt",
+      "cartoon": false,
+      "id": 8
+    },
+    {
+      "name": "loo",
+      "occupation": "rrt",
+      "weapon": "rt",
+      "cartoon": false,
+      "id": 9
+    },
+    {
+      "name": "lala",
+      "occupation": "fre",
+      "weapon": "re",
+      "cartoon": false,
+      "id": 10
+    },
+    {
+      "name": "lala",
+      "occupation": "fre",
+      "weapon": "re",
+      "cartoon": false,
+      "id": 11
+    },
+    {
+      "name": "bibi",
+      "occupation": "gte",
+      "weapon": "et",
+      "cartoon": false,
+      "id": 12
+    },
+    {
+      "name": "bbo",
+      "occupation": "re",
+      "weapon": "er",
+      "cartoon": false,
+      "id": 13
+    },
+    {
+      "name": "bbo",
+      "occupation": "re",
+      "weapon": "er",
+      "cartoon": false,
+      "id": 14
+    },
+    {
+      "name": "sd",
+      "occupation": "ds",
+      "weapon": "sd",
+      "cartoon": false,
+      "id": 15
+    },
+    {
+      "name": "sd",
+      "occupation": "ds",
+      "weapon": "sd",
+      "cartoon": false,
+      "id": 16
+    },
+    {
+      "name": "sd",
+      "occupation": "ds",
+      "weapon": "",
+      "cartoon": false,
+      "id": 17
+    },
+    {
+      "name": "sd",
+      "occupation": "ds",
+      "weapon": "",
+      "cartoon": false,
+      "id": 18
+    },
+    {
+      "name": "sd",
+      "occupation": "ds",
+      "weapon": "cd",
+      "cartoon": false,
+      "id": 19
+    },
+    {
+      "name": "sd",
+      "occupation": "ds",
+      "weapon": "cd",
+      "cartoon": false,
+      "id": 20
+    },
+    {
+      "name": "ba",
+      "occupation": "ds",
+      "weapon": "cd",
+      "cartoon": false,
+      "id": 21
+    },
+    {
+      "name": "ba",
+      "occupation": "ds",
+      "weapon": "cd",
+      "cartoon": false,
+      "id": 22
+    },
+    {
+      "name": "ba",
+      "occupation": "ds",
+      "weapon": "cd",
+      "cartoon": false,
+      "id": 23
+    },
+    {
+      "name": "ba",
+      "occupation": "ds",
+      "weapon": "cd",
+      "cartoon": false,
+      "id": 24
+    },
+    {
+      "name": "tgr",
+      "occupation": "rt",
+      "weapon": "rt",
+      "cartoon": false,
+      "id": 25
+    },
+    {
+      "name": "tgr",
+      "occupation": "rt",
+      "weapon": "rt",
+      "cartoon": false,
+      "id": 26
+    },
+    {
+      "name": "re",
+      "occupation": "",
+      "weapon": "r",
+      "cartoon": false,
+      "id": 27
+    },
+    {
+      "name": "re",
+      "occupation": "",
+      "weapon": "r",
+      "cartoon": false,
+      "id": 28
+    },
+    {
+      "name": "er",
+      "occupation": "fzef",
+      "weapon": "re",
+      "cartoon": false,
+      "id": 29
+    },
+    {
+      "name": "er",
+      "occupation": "fzef",
+      "weapon": "re",
+      "cartoon": false,
+      "id": 30
+    },
+    {
+      "name": "er",
+      "occupation": "ret",
+      "weapon": "er",
+      "cartoon": false,
+      "id": 31
+    },
+    {
+      "name": "er",
+      "occupation": "ret",
+      "weapon": "er",
+      "cartoon": false,
+      "id": 32
+    }
+  ]
+}
